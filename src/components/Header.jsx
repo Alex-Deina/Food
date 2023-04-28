@@ -11,7 +11,7 @@ function Header() {
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
             <a
-              href="https://github.com/Alex-Deina/React-Shop"
+              href="https://github.com/Alex-Deina/Food"
               target="_blank"
               rel="noreferrer"
             >

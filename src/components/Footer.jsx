@@ -7,7 +7,7 @@ function Footer() {
           © {new Date().getFullYear()} Copyright Text
           <a
             className="grey-text text-lighten-4 right"
-            href="https://github.com/Alex-Deina/React-Shop"
+            href="https://github.com/Alex-Deina/Food"
             target="_blank"
             rel="noreferrer"
           >
